@@ -1,0 +1,27 @@
+* {
+    font-family: "verbana";
+}
+
+html,
+body {
+    margin: 0;
+    height: 100vh;
+}
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(27, 27, 27);
+}
+img {
+    width: 98%;
+    height: 95%;
+}
+h1 {
+    color: black;
+    font-size: 144px;
+    font-weight: 300;
+    position: absolute;
+    top:auto;
+    left: auto;    
+}
