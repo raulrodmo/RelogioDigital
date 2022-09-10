@@ -1,4 +1,3 @@
-# RelogioDigital
 Repositório criado para desenvolvimento de um relógio digital de forma simples e objetiva.
 <br>
 Abaixo temos uma imagem ilustrativa: 
